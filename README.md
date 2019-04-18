@@ -1,2 +1,4 @@
-# whichYamlParses
-A utility to recurse a directory tree and find out which YAML files do not parse.
+A sample command-line application.
+
+Created from templates made available by Stagehand under a BSD-style
+[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
